@@ -20,7 +20,7 @@ For interation 1 I'm going to try and get a fully working prototype of the endle
 for the tech architecture i'll be using  phaser 3  and matter.js as the main platform as it allows me to  make lightweight functioning  games for the web and mobile devices. but may also use some plugins to enhance the gameplay.
 
 ### UI & UX
-for the control scheme im think of just having a single touch control  with limit to no ui elements.
+for the control scheme im think of just having a single touch control  with limit to no UI elements.
 ### Audio 
 I don't think its neccesary  for the first interation to have audio or sound effects for the first version of the game.
 ### planning
