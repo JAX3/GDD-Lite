@@ -27,4 +27,5 @@ I don't think its neccesary  for the first interation to have audio or sound eff
 Im going to be using [Trello](https://trello.com/b/fr0tffg4/mobile-game)  for planing and structure  of the project and it will allow me to split the task into seperate cards for each task. And  the ease of access with the team gantt plugin that converts the cards into a gantt chart.
 
 ### Testing
-For testing im planning of using [Google forms](https://www.google.com/forms/about/?utm_source=gaboutpage&utm_medium=formslink&utm_campaign=gabout) While  being more self lead in terms of testing of the game for any bugs or difficulty.
+For testing im planning of using [Google forms](https://www.google.com/forms/about/?utm_source=gaboutpage&utm_medium=formslink&utm_campaign=gabout) While  being more self lead in terms of testing of the game for any bugs or difficulty. 
+I may use google analytics  for tracking on the game.
