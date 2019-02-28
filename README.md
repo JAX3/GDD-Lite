@@ -6,6 +6,7 @@ The games design document for my mobile game.
  Using:
 * [Phaser](https://photonstorm.github.io/phaser3-docs/)- for the game engine.
 * [Matter.js](https://photonstorm.github.io/phaser3-docs/MatterJS.html)- for the physics engine 
+* [Arcade](https://photonstorm.github.io/phaser3-docs/Phaser.Physics.Arcade.html) A maybe if matter.js doesn't work.
 
 The Unique selling point(usp)is a the sudo planet gravity as the player runs around a planet
 ### Interation 1
